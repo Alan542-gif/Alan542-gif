@@ -1,4 +1,8 @@
-👋 ¡Hola! Soy Alan Ayala
+## 👋 ¡Hola! Soy Alan Ayala
+
+🎓 Estudiante de Ingeniería en Computación en la UNAM, FES Aragón  
+💻 Apasionado por el desarrollo de software, hardware digital y tecnologías emergentes  
+
 
 
 <!--
