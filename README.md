@@ -1,4 +1,4 @@
-##👋 ¡Hola! Soy Alan Ayala
+👋 ¡Hola! Soy Alan Ayala
 
 
 <!--
