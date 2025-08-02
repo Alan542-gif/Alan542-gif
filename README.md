@@ -1,21 +1,15 @@
 ## 👋 ¡Hola! Soy Alan Ayala
 
-🎓 Estudiante de Ingeniería en Computación en la UNAM, FES Aragón  
+🎓 Estudiante de Ingeniería en Computación en la UNAM (FES Aragón)  
 💻 Apasionado por el desarrollo de software, hardware digital y tecnologías emergentes  
 
+## 🚀 Sobre mí
+Soy una persona curiosa, autodidacta y comprometida con el aprendizaje constante. Me interesa todo lo relacionado con:
 
+- 🧩 Desarrollo de aplicaciones web, móviles y de escritorio  
+- 🧠 Diseño lógico, programación de sistemas y estructuras digitales  
+- 🔐 Seguridad informática y sistemas operativos  
+- 📱 Tecnologías móviles y experiencias centradas en el usuario
+  
+Actualmente estoy trabajando en proyectos personales que buscan **resolver problemas reales con soluciones funcionales y bien diseñadas**, combinando buenas prácticas de desarrollo con un enfoque creativo.
 
-<!--
-**Alan542-gif/Alan542-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
